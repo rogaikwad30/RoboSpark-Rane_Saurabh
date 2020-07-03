@@ -1,0 +1,4 @@
+1. Write a code to store and display student records using a structure. It should contain stud_id, stud_name, stud_year and stud_cgpa.
+
+2. Solve Balanced Bracket Problem using STACK.
+eg - (()) is balanced, (((()))) is balanced, (((((()) is not balanced.
