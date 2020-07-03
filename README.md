@@ -1,5 +1,4 @@
-# RoboSpark-Rane_Saurabh
-Repo for task submission
+# RoboSpark-Rane_Saurabh: Repo for task submission
 Mentor: Rane Saurabh
 
 Mentee:
